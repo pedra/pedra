@@ -1,9 +1,11 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedra&color=orange&style=plastic&label=PROFILE+VIEWS" alt="Pedra" /> </p>
 
-***No centro do equilíbrio está o poder!***
+***At the center of the equilibrium is power!***
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedra&show_icons=true&theme=solarized-light" alt="Pedra"/> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedra&show_icons=true&theme=solarized-light" alt="Pedra"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedra&theme=solarized-light" alt="Pedra languages"/>
 
 🔭 I’m currently working on <a href="https://github.com/Tuims" target="blank"><b>@Tuim</b></a>
 
