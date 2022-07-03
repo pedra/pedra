@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedra&theme=solarized-light" alt="Pedra languages"/>
 </p>
 
-🔭 I’m currently working on <a href="https://github.com/Tuims" target="blank"><b>@Tuim</b></a>
+🔭 I’m currently working on <a href="https://github.com/freedomeetech" target="blank"><b>@FreedomeeTech</b></a>
 
 <p align="left">
 📫 How to reach me &nbsp;&nbsp;
