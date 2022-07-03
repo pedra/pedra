@@ -26,25 +26,25 @@
 <p align="left">
 💬 Who am I &nbsp;&nbsp;
   <a title="Youtube.com/c/BillRocha" href="https://youtube.com/c/billrocha" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" alt="BillRocha" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/youtube/999" alt="BillRocha" height="20" width="20" />
   </a>&nbsp;  
   <a href="https://codepen.io/3rasil" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codepen.svg" alt="3rasil" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/codepen/999" alt="3rasil" height="20" width="20" />
   </a>&nbsp;
   <a href="https://twitter.com/3illrocha" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" alt="@3illrocha" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/twitter/999" alt="@3illrocha" height="20" width="20" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/ahcor" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="Ahcor" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/linkedin/999" alt="Ahcor" height="20" width="20" />
   </a>&nbsp;
   <a href="https://codesandbox.com/3illrocha" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codesandbox.svg" alt="3illrocha" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/codesandbox/999" alt="3illrocha" height="20" width="20" />
   </a>&nbsp;
   <a href="https://fb.com/paulobillrocha" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="paulobillrocha" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/facebook/999" alt="paulobillrocha" height="20" width="20" />
   </a>&nbsp;
   <a href="https://instagram.com/ahcorllib" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="ahcorllib" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/instagram/999" alt="ahcorllib" height="20" width="20" />
   </a>
 </p>
 
