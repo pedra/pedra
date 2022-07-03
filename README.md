@@ -12,14 +12,14 @@
 
 <p align="left">
 📫 How to reach me &nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=5521996233655&text=Olá (by github.com/pedra)!" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/whatsapp.svg" alt="+55 21 99623 3655" height="20" width="20" />
+  <a href="https://api.whatsapp.com/send?phone=5521995674989&text=Olá (by github.com/pedra)!" target="blank">
+    <img align="center" src="https://simpleicons.vercel.app/whatsapp/999" alt="+55 21 99567 4989" height="20" width="20" />
   </a>&nbsp;
   <a href="https://join.skype.com/invite/DONWL9yX5oTs" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/skype.svg" alt="wr300k" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/skype/999" alt="wr300k" height="20" width="20" />
   </a>&nbsp;
   <a title="E-mail prbr@ymail.com" href="mailto:prbr@ymail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/yahoo.svg" alt="prbr@ymail.com" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/yahoo/999" alt="prbr@ymail.com" height="20" width="20" />
   </a>&nbsp;
 </p>
 
