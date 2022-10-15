@@ -13,7 +13,7 @@
 <p align="left">
 📫 How to reach me &nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5521995674989&text=Olá (by github.com/pedra)!" target="blank">
-    <img align="center" src="https://simpleicons.vercel.app/whatsapp/999" alt="+55 21 99567 4989" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/whatsapp/999" alt="+55 21 99567 4969" height="20" width="20" />
   </a>&nbsp;
   <a href="https://join.skype.com/invite/DONWL9yX5oTs" target="blank">
     <img align="center" src="https://simpleicons.vercel.app/skype/999" alt="wr300k" height="20" width="20" />
@@ -31,8 +31,8 @@
   <a href="https://codepen.io/3rasil" target="blank">
     <img align="center" src="https://simpleicons.vercel.app/codepen/999" alt="3rasil" height="20" width="20" />
   </a>&nbsp;
-  <a href="https://twitter.com/3illrocha" target="blank">
-    <img align="center" src="https://simpleicons.vercel.app/twitter/999" alt="@3illrocha" height="20" width="20" />
+  <a href="https://twitter.com/user161068" target="blank">
+    <img align="center" src="https://simpleicons.vercel.app/twitter/999" alt="@user161068" height="20" width="20" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/ahcor" target="blank">
     <img align="center" src="https://simpleicons.vercel.app/linkedin/999" alt="Ahcor" height="20" width="20" />
