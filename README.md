@@ -4,8 +4,8 @@
 ***At the center of the equilibrium is power!***
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedra&show_icons=true&theme=solarized-light" alt="Pedra"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedra&theme=solarized-light" alt="Pedra languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedra&show_icons=true&theme=dark" alt="Pedra"/>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedra&theme=dark" alt="Pedra languages"/>
 </p>
 
 🔭 I’m currently working on <a href="https://github.com/freedomeetech" target="blank"><b>@FreedomeeTech</b></a>
